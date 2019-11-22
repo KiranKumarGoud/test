@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 01 11:58:23 IST 2019
+https\://hub.chemaxon.com/artifactory/libs-release/.error=Could not transfer artifact jchem\:jchem\:pom\:1.0 from/to central (https\://hub.chemaxon.com/artifactory/libs-release)\: Access denied to\: https\://hub.chemaxon.com/artifactory/libs-release/jchem/jchem/1.0/jchem-1.0.pom , ReasonPhrase\:Forbidden.
+https\://hub.chemaxon.com/artifactory/libs-snapshot/.error=Could not transfer artifact jchem\:jchem\:pom\:1.0 from/to snapshots (https\://hub.chemaxon.com/artifactory/libs-snapshot)\: Access denied to\: https\://hub.chemaxon.com/artifactory/libs-snapshot/jchem/jchem/1.0/jchem-1.0.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1564639481650
+6ff8b2b52a3555f9dd84474b5d4988d77638bbf1@default-snapshots-https\://hub.chemaxon.com/artifactory/libs-snapshot/.lastUpdated=1564640903068
+6ff8b2b52a3555f9dd84474b5d4988d77638bbf1@default-central-https\://hub.chemaxon.com/artifactory/libs-release/.lastUpdated=1564640902348
+https\://repo.maven.apache.org/maven2/.error=
