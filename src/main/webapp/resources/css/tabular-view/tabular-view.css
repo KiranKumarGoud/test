@@ -1,0 +1,14 @@
+.readMoreText {
+  font-size: 10px;
+  cursor: pointer;
+  color: #045e7c;
+}
+thead tr:first-child th {
+  position: sticky;
+  top: 0;
+  background: azure;
+  z-index: 1000;
+}
+.my-table {
+  height: 550px;
+}

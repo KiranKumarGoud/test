@@ -1,0 +1,1 @@
+const glb__activityTypeSearchGetters = {};

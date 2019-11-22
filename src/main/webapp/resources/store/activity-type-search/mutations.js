@@ -1,0 +1,3 @@
+const glb__activityTypeSearchMutations = {
+  
+};

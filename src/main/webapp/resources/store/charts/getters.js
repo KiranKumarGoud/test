@@ -1,0 +1,2 @@
+const glb__chartsGetters = {
+}
