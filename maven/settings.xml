@@ -1,0 +1,14 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      https://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+	<server>
+		<id>excelra-visualstudio-com-excelra-jchem-maven</id>
+		<username>jchem-Maven</username>
+		<!-- Treat this auth token like a password. Do not share it with anyone, including Microsoft support. -->
+		<!-- The generated token expires on or before 2/9/2020 -->
+		<password>n33i6c4rv6zaigjw3ybhbnnmeefqehzumywlnnd4tw4diehy6x6a</password>
+	</server>
+  </servers>
+</settings>
