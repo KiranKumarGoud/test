@@ -260,7 +260,13 @@
    <repository>
        <id>org.source.repo</id>
        <url>https://github.com/KiranKumarGoud/test/tree/master/jchem/jchem/1.0</url>
-   </repository>
+     <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+      </dependencies>
+    </repository>
 </repositories>
     
     <reporting>
